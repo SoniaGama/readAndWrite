@@ -9,9 +9,8 @@ import org.apache.logging.log4j.Logger;
 	C:\Users\Sonia Gama\Documents\CopyThread\Copia.txt
 	File archivo = new File(“rutaDelArchivo\nombreDelArchivo.extensión”);
 	Solo debe pasar los archivos
-	
-	
-	
+
+
  */
 public class Copy {
     public static void main( String[] args ){
