@@ -1,6 +1,6 @@
 # readAndWrite
 
-# # Serializables objects, json and xml notations - Java
+## Serializables objects, json and xml notations - Java
 De objeto a byte[]
 ByteArrayOutputStream bs= new ByteArrayOutputStream();
 ObjectOutputStream os = new ObjectOutputStream (bs);
